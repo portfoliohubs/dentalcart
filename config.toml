@@ -4,7 +4,7 @@ title = "Dental Supplies Order"
 disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT", "404"]
 
 [params]
-whatsapp_phone = "201234567890"
+whatsapp_phone = "201271476215"
 default_language = "en"
 supported_languages = ["en", "ar"]
 
